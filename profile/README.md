@@ -3,9 +3,3 @@
 [![Twitter Badge](https://img.shields.io/badge/-@merlinoagency-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/merlinoagency)](https://twitter.com/merlinoagency) [![LinkedIn Badge](https://img.shields.io/badge/-Merlino%20Software%20Agency-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/merlino-agency/)](https://www.linkedin.com/company/merlino-agency/) [![Website Badge](https://img.shields.io/badge/-merlino.agency-B00D23?style=flat-square&logo=website&logoColor=white&link=https://merlino.agency/)](https://merlino.agency/) [![Website Badge](https://img.shields.io/badge/-OneFood%3A%20Premium%20food%20delivered-009678?style=flat-square&logo=website&logoColor=white&link=https://1-food.com/)](https://1-food.com/) [![Website Badge](https://img.shields.io/badge/-Isla%3A%20Centralize%20and%20structure%20your%20work%20requests-ed3515?style=flat-square&logo=website&logoColor=white&link=https://getisla.com/)](https://getisla.com/)
 
 ![Merlino Software Agency on Clutch](https://merlino.agency/images/clutch-ranking.png "Merlino Software Agency on Clutch")
-
-Dear fellow engineers, we're currently seeking to fill in the following positions at Merlino Software Agency: 
-
-| Position   |      Description | Compensation      |  Employment Type |  Technologies | Project Category
-|:----------|:-------------|:------|:------|:------|:------|
-| Full-Stack Web Developer |  [merlino.agency](https://merlino.agency/careers/full-stack-web-developer) | $50-60k | Full-time Contract | MEAN stack, TailwindCSS | Complex HR Software
